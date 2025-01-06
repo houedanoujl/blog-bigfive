@@ -155,7 +155,7 @@ function getExcerpt(article) {
 }
 
 .read-more:hover {
-    color: #018f69;
+    color: #71368b;
 }
 
 h2 {

@@ -32,10 +32,10 @@ Récemment, nous avons accompagné [CIPREL](https://ciprel.ci) dans sa stratégi
 
 En quelques jours, nous avons conçu :  
 - **Deux jeux interactifs** :  
-  - *Jeu CIPREL*  
-  - *CIPREL RH*  
+  - *(Jeu CIPREL)[https://jeuciprel.vercel.app/]*  
+  - *(CIPREL RH)[https://ciprelrh.netlify.app/]*  
 - **Une visite virtuelle** :  
-  - *Visite Virtuelle*  
+  - *(Visite Virtuelle)[https://my.matterport.com/show/?m=ktwzxYJtmj9]*  
 
 Ces expériences multimédia étaient accessibles via un **totem numérique** (une tablette Android de 21 pouces).  
 
