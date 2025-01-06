@@ -8,7 +8,7 @@
           <div class="level is-flex is-justify-content-center is-align-content-center">
             <h1 class="title">
               <NuxtLink to="/">
-                <img alt="le Blog de Jean Luc Houédanou" src="/images/1837389.webp" height="320">
+                <img alt="le Blog de Jean Luc Houédanou" src="/images/articles/logo-mini.svg" height="320">
               </NuxtLink>
             </h1>
           </div>
@@ -25,7 +25,7 @@
 import LanguageSwitcher from '~/components/LanguageSwitcher.vue'
 
 useHead({
-  title: 'Le blog de Jean Luc Houédanou'
+  title: 'Le blog de Big Five '
 });
 </script>
 
