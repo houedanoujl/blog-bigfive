@@ -8,7 +8,7 @@ id: 5
 
 
 ## Connaissez-vous Big Five ?  
-Pour dire vrai, on ne sait pas trop ce qu'ils font exactement.  
+*Pour dire vrai, on ne sait pas trop ce qu'ils font exactement.*  
 
 En effet, nous sommes les cordonniers les plus mal chaussés du web francophone.  
 Ceci étant, notre grande résolution pour 2024, c’est de communiquer davantage sur nos réalisations, nos idées et les grands moments de l'agence.  
