@@ -1,5 +1,4 @@
-# Le Blog de Jean-Luc Houédanou
-
+# Le Blog de Big Five 
 Ce projet est un blog personnel construit avec Nuxt 3, utilisant le système de gestion de contenu Nuxt Content pour les articles.
 
 ## Technologies utilisées
