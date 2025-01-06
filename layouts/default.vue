@@ -7,8 +7,8 @@
 
         <footer class="footer">
             <div class="footer-content">
-                <p>&copy; {{ new Date().getFullYear() }}Jean Luc Houedanou. Tous droits réservés.</p>
-                <div class="social-icons">
+                <p>&copy; {{ new Date().getFullYear() }} Big Five. Tous droits réservés.</p>
+                <!-- <div class="social-icons">
                     <a href="https://linkedin.com/in/votre-profil" target="_blank" rel="noopener noreferrer"><i
                             class="fab fa-linkedin"></i></a>
                     <a href="https://facebook.com/votre-page" target="_blank" rel="noopener noreferrer"><i
@@ -19,7 +19,7 @@
                             class="fab fa-instagram"></i></a>
                     <a href="https://twitter.com/votre-profil" target="_blank" rel="noopener noreferrer"><i
                             class="fab fa-twitter"></i></a>
-                </div>
+                </div> -->
             </div>
         </footer>
     </div>
