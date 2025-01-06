@@ -1,6 +1,6 @@
 ---
 title: "Big Five : la team multiculturelle qui secoue le digital "
-image: "/images/articles/that.svg"
+image: "/images/articles/that.png"
 createdAt: "06-01-2025"
 id: 5
 ---
