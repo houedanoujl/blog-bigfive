@@ -16,9 +16,9 @@ feedme: {
       path: '/feed.xml',
       create: async (feed) => {
         feed.options = {
-          title: 'Le Blog de Jean-Luc Houédanou',
-          link: 'https://houedanou.com/feed.xml',
-          description: 'Le Blog de Jean-Luc Houédanou',
+          title: 'Le Blog de Big Five',
+          link: 'https://blog.bigfivesolutions.com/feed.xml',
+          description: 'Le Blog de Big Five',
         }
 
         const articles = await queryContent().find()
@@ -27,7 +27,7 @@ feedme: {
           feed.addItem({
             title: article.title,
             id: article._path,
-            link: `https://houedanou.com${article._path}`,
+            link: `https://blog.bigfivesolutions.com${article._path}`,
             description: article.description,
             content: article.body,
             date: new Date(article.createdAt)
@@ -50,7 +50,7 @@ i18n: {
   detectBrowserLanguage: false,
 }, 
  sitemap: {
-    hostname: 'https://houedanou.com',
+    hostname: 'https://blog.bigfivesolutions.com',
     gzip: true,
     routes: async () => {
       const articles = await queryContent()
@@ -67,7 +67,7 @@ i18n: {
   ssr: true,
   nitro: {
     preset: 'vercel',
-//    baseURL: "http://houedanou.com",
+//    baseURL: "http://blog.bigfivesolutions.com",
     prerender: {
       // crawlLinks: true,
       failOnError: false
@@ -105,7 +105,7 @@ i18n: {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-5DSHDPMFNP');
+            gtag('config', 'G-H6JD6QGR5H');
           `
         }
       ],
