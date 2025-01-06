@@ -211,8 +211,8 @@ h2 {
 .pagination-link.is-current,
 .pagination-link.is-selected {
 
-    background-color: #03a87c;
-    border-color: #03a87c;
+    background-color:#71368b;
+    border-color:#71368b;
     border: none !important
 }
 

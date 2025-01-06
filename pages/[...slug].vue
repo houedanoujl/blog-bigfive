@@ -161,7 +161,7 @@ function estimateReadTime(content) {
 }
 
 .lang-link {
-  color: #03a87c;
+  color:#71368b;
   text-decoration: none;
   font-weight: 600;
   transition: color 0.3s ease;
@@ -184,9 +184,9 @@ function estimateReadTime(content) {
 }
 
 .article-content :deep(a) {
-  color: #03a87c;
+  color:#71368b;
   text-decoration: none;
-  border-bottom: 1px solid #03a87c;
+  border-bottom: 1px solid#71368b;
 }
 
 .article-content :deep(a:hover) {
@@ -202,7 +202,7 @@ function estimateReadTime(content) {
 
 .back-to-articles {
   display: inline-block;
-  color: #03a87c;
+  color:#71368b;
   text-decoration: none;
   font-weight: 600;
   transition: color 0.3s ease;
@@ -221,7 +221,7 @@ function estimateReadTime(content) {
 
 .network {
   cursor: pointer;
-  color: #03a87c;
+  color:#71368b;
   text-decoration: none;
   font-weight: 600;
   transition: color 0.3s ease;

@@ -131,14 +131,14 @@ import { ref, onMounted } from 'vue'
     --text-color: #292929;
     --bg-color: #ffffff;
     --border-color: #e6e6e6;
-    --accent-color: #03a87c;
+    --accent-color:#71368b;
 }
 
 body.dark-mode {
     --text-color: #e6e6e6;
     --bg-color: #1a1a1a;
     --border-color: #4a4a4a;
-    --accent-color: #03a87c;
+    --accent-color:#71368b;
 }
 
 .social-icons {
