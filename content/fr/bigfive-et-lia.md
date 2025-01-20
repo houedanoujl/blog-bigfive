@@ -22,7 +22,7 @@ Cette innovation a libéré du temps pour des projets plus complexes nécessitan
 
 Les sessions de brainstorming ont également été transformées par l'IA. Auparavant dominées soit par quelques voix, soit s'éternisant en longueur sur les discussions sur les derniers "buzz" chaque fois qu'un influenceur était mentionné, elles sont désormais plus productives. Chaque participant au brainstorming couche ses idées et les améliore via l'IA de son choix : cela donne à chacun du matériel à proposer lors du brainstorming, ainsi qu'une chance égale d'être entendu, favorise l'émergence d'idées originales et innovantes, tout en rendant les réunions plus courtes et plus productives.
 
-### Et l'intelligence humaine dans tout ça ?
+## Et l'intelligence humaine dans tout ça ?
 
 Elle s'épanouit plus que jamais. Libérés des tâches répétitives, nos collaborateurs se concentrent sur ce qui fait leur valeur ajoutée : la pensée stratégique, la créativité, l'empathie et la résolution de problèmes complexes. L'IA n'a pas remplacé l'humain - elle l'a élevé. Nos équipes ne sont moins noyées dans l'administratif ou le technique ; elles peuvent enfin donner la pleine mesure de leur talent et de leur expertise.
 
