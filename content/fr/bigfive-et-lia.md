@@ -1,8 +1,8 @@
 ---
 title: "L'IA assiste l'IH (l'intelligence humaine) chez Big Five "
 image: "/images/articles/ai.webp"
-createdAt: "06-01-2025"
-id: 5
+createdAt: "20-01-2025"
+id: 2
 ---
 
 # L'IA assiste l'IH (l'Intelligence Humaine) chez Big Five
