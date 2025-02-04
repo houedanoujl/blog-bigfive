@@ -7,11 +7,17 @@ id: 3
 
 # Le Recruthon : une journée de recrutement dédiée aux talents 🚀
 
-Après plusieurs expériences de recrutement plus ou moins heureuses (comprendre : des candidats brillants en entretien mais moins speed une fois en poste), Big Five a décidé de bousculer les codes. Le 16 novembre 2024, nous avons mis en place à Abidjan, Treichville, une journée de recrutement où les mots d'ordre étaient : "Moins de blabla, plus d'action".
+Après plusieurs expériences de recrutement plus ou moins heureuses (comprendre : des candidats brillants en entretien mais moins speed une fois en poste), Big Five a décidé de bousculer les codes. 
+
+Le 16 novembre 2024, nous avons mis en place à Abidjan, Treichville, une journée de recrutement où les mots d'ordre étaient : "Moins de blabla, plus d'action".
 
 ## Du concret, enfin !
 
 Fini les CV rutilants et les entretiens bien rodés. Nous avons réuni trois équipes dans une configuration simple : des binômes développeur Flutter/graphiste face à un vrai projet, avec de vraies contraintes et un vrai timing à respecter.
+
+Juste trois équipes ? 
+
+En fait il était prévu 5 équipes, mais entre les participants se désistant 15 minutes avant le début du recrutement, ceux proposant de faire le test depuis chez eux ( si... c'est vraiment arrivé) et ceux arrivant avec 2 heures de retard (encore une fois...c'est vraiment arrivé) ... nombreux furent les appelés, moins nombreux furent les élus.
 
 ## Le challenge
 
