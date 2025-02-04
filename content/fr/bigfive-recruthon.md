@@ -1,6 +1,6 @@
 ---
 title: "le Recruthon : une journée de recrutement dédiée aux talents"
-image: "/images/articles/that.png"
+image: "/images/articles/IMG_1968.jpg"
 createdAt: "06-01-2025"
 id: 1
 ---
