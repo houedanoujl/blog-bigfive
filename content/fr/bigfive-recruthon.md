@@ -21,7 +21,9 @@ En fait il était prévu 5 équipes, mais entre les participants se désistant 1
 
 ## Le challenge
 
-Au menu : développer une application mobile pour le Youzou Live concert du nouvel an. Deux options possibles :
+Au menu : développer une application mobile pour le Youzou Live concert du nouvel an. 
+
+Deux options possibles :
 - Système de billetterie pour 500 participants
 - Plateforme de vote pour élire l'artiste de la soirée
 
