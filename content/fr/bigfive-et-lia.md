@@ -7,11 +7,11 @@ id: 2
 
 # L'IA assiste l'IH (l'Intelligence Humaine) chez Big Five
 
-## De la résistance à l'adoption enthousiaste
-
 Soyons honnêtes, l'histoire des outils de productivité est marquée autant par des réussites éclatantes (Slack, Skype, Google Workspace) que par des échecs retentissants.
 
 Trop souvent, ces outils finissent abandonnés ou utilisés à contrecœur par les équipes.
+
+## De la résistance à l'adoption enthousiaste
 
 L'arrivée de l'Intelligence Artificielle a initialement suscité le même scepticisme. Nos développeurs, par exemple, étaient au départ hésitants face à des outils comme Cursor ou ChatGPT. Mais la transformation a été rapide et spectaculaire : ils ont découvert que ces outils leur permettaient de corriger les bugs en un temps record, de produire un code plus propre et de mieux accompagner les nouvelles recrues. Même la documentation, traditionnellement perçue comme une corvée, est devenue simple grâce à l'automatisation.
 
