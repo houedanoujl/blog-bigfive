@@ -1,10 +1,10 @@
 --- 
-title: " Un défi RH résolu en une journée grâce à l'IA" 
+title: "Un défi Wordpress et RH résolu en une journée grâce à l'IA" 
 image: "/images/articles/kap.jpg" 
-createdAt: "20-01-2025" 
+createdAt: "07-03-2025" 
 id: 4 
 --- 
-# L'IA assiste l'IH (l'Intelligence Humaine) chez Big Five II : l'exemple du développement web
+# Un défi Wordpress et RH résolu en une journée grâce à l'IA
 
 Chez notre agence web, l’intelligence artificielle n’est pas là pour voler la vedette à l’humain, mais pour lui donner des superpouvoirs. 
 Voici une histoire qui le prouve.
@@ -13,7 +13,7 @@ Voici une histoire qui le prouve.
 
 L’équipe RH d’un client, fidèle partenaire de notre agence web, croulait sous les CV. Ils utilisaient WP Job Manager, un plugin WordPress bien connu pour gérer les candidatures. Mais sans filtres précis – années d’expérience, diplômes, lettre de motivation ou non –.
 En termes plus claires, trier les profils était une mission interminable.
-Un de nos développeurs a pris en main le dossier et a relevé le défi. En une seule journée, armé de Cursor et Claude, il a créé un fork sur mesure de WP Job Manager. 
+Un de nos développeurs a pris en main le dossier et a relevé le défi : en une seule journée, armé de Cursor et Claude, il a créé un fork sur mesure de WP Job Manager. 
 
 Cette solution, parfaitement intégrée à WordPress, offre :  
 
