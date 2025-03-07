@@ -7,9 +7,7 @@ id: 2
 
 # L'IA assiste l'IH (l'Intelligence Humaine) chez Big Five
 
-Soyons honnêtes, l'histoire des outils de productivité est marquée autant par des réussites éclatantes (Slack, Skype, Google Workspace) que par des échecs retentissants.
-
-Trop souvent, ces outils finissent abandonnés ou utilisés à contrecœur par les équipes.
+Soyons honnêtes, l'histoire des outils de productivité est marquée autant par des réussites éclatantes (Slack, Skype, Google Workspace) que par des échecs retentissants. Trop souvent, ces outils finissent abandonnés ou utilisés à contrecœur par les équipes.
 
 ## De la résistance à l'adoption enthousiaste
 
@@ -34,4 +32,4 @@ L'aventure ne fait que commencer. Nos prochains horizons s'articulent autour de 
 La révolution de notre production audiovisuelle grâce à la génération vidéo par IA
 Le déploiement d'agents IA intelligents pour optimiser nos processus métier
 
-Chaque étape nous confirme une chose : l'alliance entre expertise humaine et intelligence artificielle est la clé de notre réussite future.
+**Chaque étape nous confirme une chose : l'alliance entre expertise humaine et intelligence artificielle est la clé de notre réussite future.**
